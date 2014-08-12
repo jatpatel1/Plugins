@@ -1,6 +1,6 @@
 
 {
-	"name": "DataTable/Plugins",
+	"name": "datatables/datatables/plugins",
 	"version": "1.1-dev",
 	"title": "DataTablePlugins",
 	"dependencies": {
@@ -19,6 +19,5 @@
 		"DataTable Plugins",
 		"plugins"
 	],
-	"homepage": "http://www.datatables.net/plug-ins/index",
-	"target-dir": "datatables/datatables"
+	"homepage": "http://www.datatables.net/plug-ins/index"
 }
