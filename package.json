@@ -1,0 +1,23 @@
+
+{
+	"name": "DataTablePlugins",
+	"version": "1.1-dev",
+	"title": "DataTables",
+	"dependencies": {
+		"datatables/datatables": "dev-master"
+	},
+	"description": "DataTables enhances HTML tables with the ability to sort, filter and page the data in the table very easily. It provides a comprehensive API and set of configuration options, allowing you to consume data from virtually any data source.",
+	"keywords": [
+		"DataTables",
+		"DataTable",
+		"table",
+		"grid",
+		"filter",
+		"sort",
+		"page",
+		"internationalisable",
+		"DataTable Plugins",
+		"plugins"
+	],
+	"homepage": "http://www.datatables.net/plug-ins/index"
+}
